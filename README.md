@@ -30,6 +30,6 @@ This is a backend application for a blog platform built with **Spring Boot**. Th
 
 - Java 11 or higher
 - Maven 3.8 or higher
-- PostgreSQL (or any configured database)
+- MySQL (or any configured database)
 
 ---
